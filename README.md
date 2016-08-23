@@ -156,7 +156,7 @@ Return Values:
 
 #### Support and Related Information ####
 
-Support for the I2C Lua Binding is provided using the Sourceforge ticket system: http://sourceforge.net/p/i2c-lua/tickets. Please DO NOT approach the author with support requests by email. Thank you!
+Support for the I2C Lua Binding is provided using the Github issues system: https://github.com/mrpace2/i2c-lua/issues. Please DO NOT approach the author with support requests by email. Thank you!
 
   * http://www.lua.org/manual/
   * http://www.lm-sensors.org/wiki/i2cToolsDocumentation
